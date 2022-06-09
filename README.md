@@ -16,6 +16,9 @@ To install and run, open the code in VS Code.
 
 Run the terminal and `npm i` to install packages. Type `npm start` to run the app and in open in `localhost:3000`. 
 
+- [GitHub Repository](https://github.com/itsbrianfire/pwa-text-editor)
+- [Heroku Deployment](https://pwatexteditor1.herokuapp.com/)
+
 #
 ## Usage
 Upon using this app, your data can be saved or deleted with or without internet connection. Install the application from your browser to run the app offline.
